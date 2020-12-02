@@ -1,0 +1,7 @@
+Final Project steps:
+
+- load the galaxy properties 
+- build a model
+- split the data into training and test set 
+
+...more to come
